@@ -1,0 +1,46 @@
+1. Furniture:
+
+Sofas
+Chairs
+Tables (e.g., dining tables, coffee tables)
+Bed frames
+Desks
+Shelving units
+
+
+2. Kitchenware:
+
+Cookware (e.g., pots, pans, baking dishes)
+Dinnerware (e.g., plates, bowls, cups)
+Kitchen gadgets and utensils (e.g., spatulas, knives, measuring cups)
+Small kitchen appliances (e.g., coffee makers, food processors)
+Kitchen appliances (e.g., refrigerator, oven, dishwasher)
+Laundry appliances (e.g., washing machine, dryer)
+Small appliances (e.g., microwave, blender, toaster)
+
+
+3. Electronics:
+
+TVs
+Computers/laptops
+Audio equipment (e.g., speakers, headphones)
+Cameras
+Gaming consoles
+
+
+4. Outdoor and Garden:
+
+Patio furniture
+Gardening tools
+Outdoor decor (e.g., garden ornaments, planters)
+
+
+5. Miscellaneous:
+
+Home improvement tools (e.g., drills, hammers)
+Storage solutions (e.g., bins, baskets)
+Seasonal items (e.g., holiday decorations)
+Pet supplies
+
+
+don't forget to update item, only need to update in the same page
